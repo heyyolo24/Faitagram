@@ -7,7 +7,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from pyvirtualdisplay import Display
 from urllib2 import urlopen
-
+https://github.com/Juniorn1003/Faitagram.git/
 reload(sys)
 
 sys.setdefaultencoding('utf8')
